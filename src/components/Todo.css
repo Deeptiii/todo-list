@@ -1,5 +1,6 @@
 .list-container {
     box-shadow: 2px 0px 7px grey;
+    background: white;
     border-radius: 4px;
     margin: 40px;
     min-width: 300px;
